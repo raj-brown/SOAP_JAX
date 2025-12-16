@@ -4,7 +4,7 @@ This is an *unofficial* JAX implementation of the SOAP optimizer from [SOAP: Imp
 
 You can install this with
 ```
-pip install git+https://github.com/haydn-jones/SOAP_JAX
+pip install git+https://github.com/raj-brown/SOAP_JAX.git
 ```
 
 and can use it as follows:
